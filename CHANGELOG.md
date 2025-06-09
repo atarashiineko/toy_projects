@@ -1,3 +1,30 @@
+
+## 2025-06-09 Added thermal printer pixel art prompt
+
+**Task Overview**
+Created a new prompt for generating pixelated images in thermal printer style.
+
+**Context**
+The prompt collection lacked guidance on producing black-and-white pixel art images.
+
+**Thought Process**
+Followed repository conventions to place the prompt under a new visual category.
+
+**Chosen Solution**
+Added a markdown file containing detailed instructions for creating the effect.
+
+**Implementation**
+- Created `docs/visual.pixel-art/2025-06-09_thermal-printer-pixel.v000.md`.
+- Updated `CHANGELOG.md` with this entry.
+
+**Verification**
+Checked the file to ensure formatting and front matter are correct.
+
+**Deployment**
+No deployment steps are required for this documentation update.
+
+**Impact Summary**
+Expands the repository's prompt library with a new pixel-art style guide.
 ## 2025-06-09 Added project URL to README
 
 **Task Overview**
