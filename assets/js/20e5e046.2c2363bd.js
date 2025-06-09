@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_site=self.webpackChunkmy_site||[]).push([[614],{9103:e=>{e.exports=JSON.parse('{"tags":[{"label":"coding","permalink":"/toy_projects/docs/tags/coding","count":2},{"label":"leetcode","permalink":"/toy_projects/docs/tags/leetcode","count":2}]}')}}]);
