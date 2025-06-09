@@ -20,7 +20,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'doc',
-      id: 'dev.leetcode.literate-leetcode.v000',
+      id: 'dev.leetcode/dev.leetcode.literate-leetcode.v000',
     },
   ],
 };
