@@ -18,6 +18,10 @@ const sidebars: SidebarsConfig = {
       type: 'doc',
       id: 'index',
     },
+    {
+      type: 'doc',
+      id: 'dev.leetcode.literate-leetcode.v000',
+    },
   ],
 };
 
