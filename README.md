@@ -2,6 +2,10 @@
 
 This site is built using [Docusaurus](https://docusaurus.io/) and will host a collection of useful prompts for language models.
 
+## Project URL
+
+You can view the site at [https://atarashiineko.github.io/toy_projects/](https://atarashiineko.github.io/toy_projects/).
+
 ## Installation
 
 ```bash
