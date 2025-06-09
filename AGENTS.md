@@ -136,3 +136,33 @@ Ensure keywords focus on user intent rather than technical jargon.
 * Prompt-name uses only hyphens to separate words. Do not include underscores, dots, or spaces.
 * Version suffix is `.vNNN` immediately before `.md`. Always zero-pad to three digits.
 * Dates are strictly `YYYY-MM-DD`. Do not include time or timezone.
+
+## Pull request template
+
+ALSO: Use/modify separate file: `CHANGELOG.md` and add entry with the copy of the following: 
+(Header Level 2:) YYYY-MM-DD Change title
+
+**Task Overview**
+A concise statement of the goal and scope—what the agent was asked to accomplish and the boundaries of the work.
+
+**Context**
+A brief snapshot of the repository or environment before changes, plus the ticket or issue that prompted this work.
+
+**Thought Process**
+Describe how the agent analyzed requirements and constraints. Summarize alternative approaches evaluated and key observations that guided decision making.
+
+**Chosen Solution**
+Explain why one approach was selected. Highlight the benefits it delivers and any trade-offs accepted.
+
+**Implementation**
+Outline the main steps taken to implement the solution. For each step, note the files added or modified and any configuration changes.
+
+**Verification**
+Summarize testing performed—unit, integration, or manual checks—and report key results such as pass status or coverage metrics.
+
+**Deployment**
+Explain how to roll out the change, including any migration steps, release notes, and rollback instructions in case of issues.
+
+**Impact Summary**
+Reflect on what changed and why it matters. Emphasize improvements in performance, maintainability, or clarity, and suggest any follow-up tasks or documentation updates.
+
