@@ -20,6 +20,10 @@ Fields
 * `vNNN` is a three-digit, zero-padded version number starting at `v000`
 * `.md` is the file extension
 
+## Language for Examples
+
+All code examples must use **JavaScript**.
+
 ## Prompt Document Structure
 
 ### 1. Front Matter
